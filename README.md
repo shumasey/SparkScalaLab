@@ -10,7 +10,7 @@ Save this file in your __input__ folder. Do the same for other years up to 2020.
 Install Spark and start __spark-shell__. Default Spark doesn't support __xml__, but we can use Databricks utility. Please pay attention on Scala version in Spark to load correct __jar__.
 ![img](https://github.com/shumasey/SparkScalaLab/blob/main/Screenshots/classpath.png)
 
-If you look through the file you'll see that valuable data are inside <item> chapter, so we use __item__ as __rowTag__.
+If you look through the file you'll see that valuable data are inside _item_ chapter, so we use __item__ as __rowTag__.
 ![img](https://github.com/shumasey/SparkScalaLab/blob/main/Screenshots/file.png)
 
 ![img](https://github.com/shumasey/SparkScalaLab/blob/main/Screenshots/loaddata.png)
